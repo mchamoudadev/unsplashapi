@@ -1,4 +1,4 @@
-const accessKey = "IT6TkQINtwLvw00Ot3Te_P5QZd6mK_vJnS0T8MIu66I";
+const accessKey = "";
 
 
 let postsElement = document.querySelector("#posts");
